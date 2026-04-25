@@ -7,8 +7,8 @@
 
 | 제품 | 레포 | 도메인 | 설명 |
 |------|------|--------|------|
-| **도담팜 (DodamFarm)** | [`dodam-farm`](https://github.com/saecham/dodam-farm) | [`dodam.farm`](https://dodam.farm) | 멀티페르소나 농업 경영 관리 플랫폼 (농가/컨설턴트/관리자/플랫폼) |
-| **(준비 중)** | [`fintool`](https://github.com/saecham/fintool) | TBD | 농업 회계·결제 도구 (출하 정산, 장부, 영수증 OCR, 비용 분석) |
+| **도담팜 (DodamFarm)** | [`dodam-farm`](https://github.com/saecham/dodam-farm) | [`dodam.farm`](https://dodam.farm) | 멀티페르소나 농업 경영 관리 플랫폼 (농가/컨설턴트/관리자/플랫폼) — 영농일지·출하·정산·장부·수익분석·OCR 통합 |
+| **pheno-work** | [`pheno-work`](https://github.com/saecham/pheno-work) | TBD | 작물 표현형 (phenotype) R&D 도구 |
 
 ## 🛠 기술 스택
 
